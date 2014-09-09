@@ -1,0 +1,25 @@
+{
+  "name": "yc-string2js",
+  "version": "0.0.1",
+  "description": "string to js in yc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-string2js.git"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "yc",
+    "tool",
+    "string2js"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-string2js/issues"
+  }
+}
